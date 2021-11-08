@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">menuHelper</string>
+    <string name="menuhelper">Menu\nHelper</string>
+    <string name="header">What is this\nMenu?</string>
+</resources>
