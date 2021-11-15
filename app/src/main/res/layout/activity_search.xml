@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".OCRActivity">
+    tools:context=".OcrActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -16,7 +16,6 @@
             style="@style/boldtext"
             android:layout_marginLeft="30dp"
             android:layout_marginTop="50dp"
-            android:layout_marginBottom="20dp"
             android:text="@string/menuhelper"
             android:textColor="@color/white" />
     </LinearLayout>
@@ -43,8 +42,7 @@
             android:layout_gravity="right"
             android:layout_marginRight="15dp"
             android:clickable="true"
-            android:src="@drawable/icon_search"
-            android:padding=""/>
+            android:src="@drawable/icon_search"/>
     </FrameLayout>
 
 </LinearLayout>

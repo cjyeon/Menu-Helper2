@@ -8,16 +8,18 @@
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2037037037037037" />
         <entry key="app/src/main/res/drawable-v24/item_border.xml" value="0.2037037037037037" />
         <entry key="app/src/main/res/drawable-v24/left_border.xml" value="0.2037037037037037" />
+        <entry key="app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.16614583333333333" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2037037037037037" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.10448368071095604" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.75" />
+        <entry key="app/src/main/res/layout/activity_menu_desc.xml" value="0.17753623188405798" />
         <entry key="app/src/main/res/layout/activity_menu_list.xml" value="0.17572463768115942" />
-        <entry key="app/src/main/res/layout/activity_ocr.xml" value="0.17572463768115942" />
+        <entry key="app/src/main/res/layout/activity_ocr.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_search.xml" value="0.25" />
         <entry key="app/src/main/res/layout/menulistitem.xml" value="0.17572463768115942" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
